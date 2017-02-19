@@ -38,3 +38,4 @@ The [blog entry][blog-entry].
 [node-cache]: https://github.com/ptarjan/node-cache
 [repository]: https://github.com/monchopena/express-wordpressapi-cache
 [blog-entry]: http://www.bdunk.com/express-wordpressapi-cache
+[http://localhost:3000/]: http://localhost:3000/
