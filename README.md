@@ -1,4 +1,3 @@
-# express-wordpressapi-cache
 
 # Express.js, Wordrpress API and Cache
 
