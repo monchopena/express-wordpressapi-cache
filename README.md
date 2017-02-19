@@ -10,7 +10,7 @@ npm i
 npm start
 </pre>
 
-Go to [http://localhost:3000/][http://localhost:3000/]
+Go to [http://localhost:3000/][http://localhost:3000/].
 
 Into "lib/wordpress.js" you can put your API url page.
 
