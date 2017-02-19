@@ -21,7 +21,9 @@ var isCached = 'posts';
 var cachePosts = cache.get(isCached);
 ```
 
-If we can't access to cached data then we get the posts from the API and the create the cache.
+If we can't access to cached data then we get the posts from the API and then create the cache.
+
+Into the file "routes/index":
 
 ```javascript
 cache.put('posts', passPosts, 5000); // 5 seconds
